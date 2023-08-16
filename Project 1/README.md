@@ -7,4 +7,5 @@
 ## About dataset
 Source: [Kaggle](https://www.kaggle.com/datasets/ashydv/leads-dataset?select=Leads.csv)
 
+- Shape: 9240 rows and 37 columns
 - 
